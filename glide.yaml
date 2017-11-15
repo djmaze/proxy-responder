@@ -1,0 +1,3 @@
+package: github.com/djmaze/proxy-listener
+import:
+- package: github.com/armon/go-proxyproto

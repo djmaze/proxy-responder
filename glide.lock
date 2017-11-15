@@ -1,0 +1,6 @@
+hash: f55fd698ceda94ed3e4f0d66bb050c3134cb52c704273c3d5eb07a374749d3be
+updated: 2017-11-15T21:53:46.063302254Z
+imports:
+- name: github.com/armon/go-proxyproto
+  version: 48572f11356f1843b694f21a290d4f1006bc5e47
+testImports: []
